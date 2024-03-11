@@ -1,0 +1,5 @@
+repos
+new_repos
+__pycache__
+venv
+*.zip
